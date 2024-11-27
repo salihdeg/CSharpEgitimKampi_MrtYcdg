@@ -23,3 +23,9 @@ C Sharp'taki foreach yapısı tekrar edildi ve bir sınav sonuç programı yapı
 
 ## 💻 Project 8 : Methods 2
 C Sharp'taki Metodlara daha yakından incelendi. Değer döndüren metodlar ile örnek yapıldı.
+
+## 💻 Project 9 : SQL 101 and Sample SELECT Project (Product-Category)
+SQL'e giriş yapıldı. SELECT sorgusunu kullanan Ürün-Kategori Bilgi Sistemi örneği geliştirildi.
+
+## 💻 Project 10 : SQL 102 - CRUD Operations and Sample Project
+CRUD (Create - Read - Update - Delete) operasyonlarına giriş yapıldı. Temel operasyon örnekleri önceki örneğin devamı niteliğinde sipariş sistemi olarak yapıldı.
